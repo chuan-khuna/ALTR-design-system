@@ -2,5 +2,6 @@
   "useTab": false,
   "tabSize": 2,
   "newFileLocation": "folder",
-  "newFileFolderPath": "notes"
+  "newFileFolderPath": "notes",
+  "alwaysUpdateLinks": true
 }

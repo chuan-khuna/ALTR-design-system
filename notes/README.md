@@ -20,3 +20,6 @@ references:
 - https://webflow.com/blog/design-systems
 - https://www.uxpin.com/create-design-system-guide/
 - https://adele.uxpin.com/
+
+FT use flourish for interactive charts
+- https://www.ft.com/content/ef265420-45e8-497b-b308-c951baa68945

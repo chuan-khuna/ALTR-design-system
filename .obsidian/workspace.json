@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "42546d0d5cd820b5",
+        "id": "c527edf390d63a89",
         "type": "tabs",
         "children": [
           {
-            "id": "7ed904ab111ac5ce",
+            "id": "003ca8c579693ab8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,11 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ed904ab111ac5ce",
+  "active": "003ca8c579693ab8",
   "lastOpenFiles": [
-    "notes/ATLR Design System for Data Visualisation.md",
+    "notes/Outline.md",
+    "notes/Financial Times uses mn as an abbreviation for millions.md",
+    "notes/Matplotlib font size unit is point.md",
+    "notes/Matplotlib scatter s and markersize, s = markersize**2.md",
+    "notes/Customising Matplotlib with rc Params.md",
+    "notes/Typography unit - Point (pt).md",
+    "notes/Matplotlib figure size unit is inches and default dpi is 100.md",
+    "notes/Unit converter code.md",
     "notes/README.md",
-    "templates/Note.md",
-    "Untitled.md"
+    "notes/Dot per Inch DPI.md"
   ]
 }

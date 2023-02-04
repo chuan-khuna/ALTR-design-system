@@ -1,0 +1,14 @@
+- Units
+  - [[Typography unit - Point (pt)]]
+  - [[Dot per Inch DPI]]
+- I mostly use Matplotlib and Seaborn
+  - matplotlib units
+    - [[Matplotlib font size unit is point]]
+    - [[Matplotlib figure size unit is inches and default dpi is 100]]
+  - [[Customising Matplotlib with rc Params]]
+- Style Guides
+  - [[Financial Times uses mn as an abbreviation for millions]]
+  - https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary
+  - https://ft-interactive.github.io/visual-vocabulary/
+- Colour palette
+  - https://registry.origami.ft.com/components/o-colors@6.4.4?brand=core
