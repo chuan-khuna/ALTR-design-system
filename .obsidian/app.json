@@ -3,5 +3,12 @@
   "tabSize": 2,
   "newFileLocation": "folder",
   "newFileFolderPath": "notes",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "notes/attachments",
+  "userIgnoreFilters": [
+    "templates/",
+    "notes/outlines/",
+    "/notes/README",
+    "README"
+  ]
 }

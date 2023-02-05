@@ -1,12 +1,41 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "-(tag:#Literature)",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:notes/Evergreen",
+      "color": {
+        "a": 1,
+        "rgb": 6927744
+      }
+    },
+    {
+      "query": "path:notes/Literature",
+      "color": {
+        "a": 1,
+        "rgb": 14731418
+      }
+    },
+    {
+      "query": "tag:#Styleguide",
+      "color": {
+        "a": 1,
+        "rgb": 12681550
+      }
+    },
+    {
+      "query": "path:\"notes/ALTR style\"",
+      "color": {
+        "a": 1,
+        "rgb": 8234728
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
-  "close": false
+  "scale": 0.973331060778543,
+  "close": true
 }

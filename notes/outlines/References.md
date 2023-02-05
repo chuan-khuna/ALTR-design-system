@@ -1,9 +1,22 @@
+
+[[ATLR Design System for Data Visualisation]]
+
+
+# Style Guides/Design Systems
+
+- [[City Intelligence Data Design Guidelines|London Style Guide]]
+- [[The Economist visual style guide]]
+- [[Financial Times Origami Design]]
+
+
+# Outline
+
 - Units
   - [[Typography unit - Point (pt)]]
   - [[Dot per Inch DPI]]
 - I mostly use Matplotlib and Seaborn
   - matplotlib units
-    - [[Matplotlib font size unit is point]]
+    - [[Matplotlib font size, line width, marker size unit is point]]
     - [[Matplotlib figure size unit is inches and default dpi is 100]]
   - [[Customising Matplotlib with rc Params]]
 - Style Guides
