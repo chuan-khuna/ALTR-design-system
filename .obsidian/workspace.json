@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "550d361ec34b4800",
+        "id": "cbcd3a2815f023d9",
         "type": "tabs",
         "children": [
           {
-            "id": "97acc21df05e748c",
+            "id": "604e5fce3cfb0d02",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -139,17 +139,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97acc21df05e748c",
+  "active": "604e5fce3cfb0d02",
   "lastOpenFiles": [
-    "notes/README.md",
-    "notes/ALTR style/ATLR Design System for Data Visualisation.md",
-    "notes/outlines/References.md",
-    "notes/Seedling/Financial Times.md",
-    "notes/Seedling/FT Prinspecification by Nikkei.md",
-    "notes/Seedling/Meaningful Typography by Tim Brown.md",
-    "notes/Seedling/City Intelligence Data Design Guidelines.md",
-    "notes/Seedling/Atomic Design by Brad Frost.md",
+    "notes/attachments/The Economist - Visual style guide.pdf",
     "notes/Seedling/The Economist visual style guide.md",
-    "notes/Seedling/Financial Times Origami Design.md"
+    "notes/ALTR style/Use a few point of alignment as possible.md",
+    "notes/ALTR style/ATLR Design System for Data Visualisation.md",
+    "notes/ALTR style/ALTR Typography and chart elements scale.md",
+    "notes/Evergreen/Perceptually uniform colour palette.md",
+    "notes/attachments/London-Guidelines.pdf",
+    "notes/Literature/How to create a colour scale for an arbitrary main colour.md",
+    "notes/Seedling/HBR Good Charts.md",
+    "notes/Literature/Font scales in Data visualisation Style guides.md"
   ]
 }

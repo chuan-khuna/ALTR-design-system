@@ -1,0 +1,4 @@
+- Design for digital first
+- [[Use a few point of alignment as possible]]
+- [[How to create a colour scale for an arbitrary main colour]]
+- 
