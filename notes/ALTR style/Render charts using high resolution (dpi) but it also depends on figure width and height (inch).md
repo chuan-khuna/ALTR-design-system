@@ -1,0 +1,1 @@
+[[Our World in Data renders charts in very high resolution]]

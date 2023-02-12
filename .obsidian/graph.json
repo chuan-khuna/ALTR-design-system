@@ -11,7 +11,7 @@
       "query": "path:notes/Evergreen",
       "color": {
         "a": 1,
-        "rgb": 6927744
+        "rgb": 6798507
       }
     },
     {
@@ -32,7 +32,7 @@
       "query": "path:\"notes/ALTR style\"",
       "color": {
         "a": 1,
-        "rgb": 8234728
+        "rgb": 5015526
       }
     }
   ],
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.973331060778543,
-  "close": true
+  "scale": 1.1800595686901083,
+  "close": false
 }

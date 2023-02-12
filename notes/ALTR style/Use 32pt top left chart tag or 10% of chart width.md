@@ -1,0 +1,1 @@
+[[The Economist - top-left red leading tag]]

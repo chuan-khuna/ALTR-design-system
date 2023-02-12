@@ -1,6 +1,6 @@
 # ALTR Design System
 
-How to create my own design system? > [[ATLR Design System for Data Visualisation]]
+How to create my own design system? > [[📖 ATLR Design System for Data Visualisation]]
 
 Inspired by:
 - Financial Times

@@ -10,5 +10,8 @@
     "notes/outlines/",
     "/notes/README",
     "README"
-  ]
+  ],
+  "showLineNumber": true,
+  "spellcheck": true,
+  "promptDelete": false
 }

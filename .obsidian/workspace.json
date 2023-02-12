@@ -4,18 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "cbcd3a2815f023d9",
+        "id": "2a1592b5ed827efe",
         "type": "tabs",
         "children": [
           {
-            "id": "604e5fce3cfb0d02",
+            "id": "39f7ac0154a52069",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/Literature/Note from Economist Style Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60d3ee121a046a6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Evergreen/Question - How to create or design a good colour palette?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75b64844f10012ed",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "notes/attachments/The Economist - Visual style guide.pdf"
+              }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -66,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 275
   },
   "right": {
     "id": "25daf2811023ef8c",
@@ -82,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Evergreen/Question - How to create or design a good colour palette?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/Evergreen/Question - How to create or design a good colour palette?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/Evergreen/Question - How to create or design a good colour palette?.md"
+              }
             }
           }
         ]
@@ -139,17 +170,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "604e5fce3cfb0d02",
+  "active": "60d3ee121a046a6b",
   "lastOpenFiles": [
-    "notes/attachments/The Economist - Visual style guide.pdf",
-    "notes/Seedling/The Economist visual style guide.md",
-    "notes/ALTR style/Use a few point of alignment as possible.md",
-    "notes/ALTR style/ATLR Design System for Data Visualisation.md",
-    "notes/ALTR style/ALTR Typography and chart elements scale.md",
-    "notes/Evergreen/Perceptually uniform colour palette.md",
-    "notes/attachments/London-Guidelines.pdf",
     "notes/Literature/How to create a colour scale for an arbitrary main colour.md",
-    "notes/Seedling/HBR Good Charts.md",
-    "notes/Literature/Font scales in Data visualisation Style guides.md"
+    "notes/Literature/Note from Economist Style Guide.md",
+    "notes/attachments/The Economist - Visual style guide.pdf",
+    "notes/Literature/Font scales in Data visualisation Style guides.md",
+    "notes/attachments/FT_BrandGuidelines2014.pdf",
+    "notes/attachments/FT-print spec.pdf",
+    "notes/ALTR style/📖 ATLR Design System for Data Visualisation.md",
+    "notes/Literature/A design system is about being consistency.md",
+    "notes/Seedling/Financial Times.md",
+    "notes/Evergreen/Question - How to create or design a good colour palette?.md"
   ]
 }
