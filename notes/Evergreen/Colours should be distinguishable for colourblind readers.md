@@ -1,5 +1,5 @@
 ---
 aliases:
+  - Accessibility
 tags:
-  - Fleeting
 ---
